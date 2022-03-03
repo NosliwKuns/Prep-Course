@@ -1,0 +1,17 @@
+h1 {
+    color: brown;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: peachpuff;
+    padding: 50px;
+    border: 15px solid orange;
+}
+#spanId {
+            margin: 50px;
+            font-size: 18px;
+} 
